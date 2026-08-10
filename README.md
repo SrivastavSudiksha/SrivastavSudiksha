@@ -8,6 +8,7 @@
 /____/\____/_____/_/ |_/___/____/_/ /_/_/  |_|
 
  S R I V A S T A V   ::   github.com/SrivastavSudiksha
+ AI/ML Engineer :: Software Development Engineer :: Data Analytics
 ```
 
 </div>
@@ -26,12 +27,12 @@ guest@sudiksha:~$ neofetch
 
 user@sudiksha
 -------------
-OS:            AI/ML Engineer
+OS:            AI/ML Engineer | Software Development Engineer
 Host:          JIIT Noida / IIT Madras (dual-degree)
 Kernel:        B.Tech Biotechnology (Minor AI/ML)
 Uptime:        2024 -- 2028
 Shell:         python3 --version 3.x
-Focus:         search & retrieval, RAG, embeddings, NLP
+Focus:         search & retrieval, RAG, embeddings, NLP, data analytics
 Internships:   BBAU, QVOLV, BBAU
 Portfolio:     portfoliosudiksha.vercel.app
 ```
@@ -48,7 +49,7 @@ guest@sudiksha:~$ cat stack.log
 
 <div align="center">
 
-`python`&nbsp;&nbsp;`fastapi`&nbsp;&nbsp;`mongodb`&nbsp;&nbsp;`react`&nbsp;&nbsp;`typescript`&nbsp;&nbsp;`javascript`&nbsp;&nbsp;`kotlin`&nbsp;&nbsp;`git`&nbsp;&nbsp;`linux`&nbsp;&nbsp;`oracle-apex`
+`python`&nbsp;&nbsp;`fastapi`&nbsp;&nbsp;`mongodb`&nbsp;&nbsp;`react`&nbsp;&nbsp;`typescript`&nbsp;&nbsp;`javascript`&nbsp;&nbsp;`kotlin`&nbsp;&nbsp;`git`&nbsp;&nbsp;`linux`&nbsp;&nbsp;`oracle-apex`&nbsp;&nbsp;`pandas`&nbsp;&nbsp;`numpy`&nbsp;&nbsp;`sql`
 
 </div>
 
