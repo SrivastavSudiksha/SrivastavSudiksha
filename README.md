@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/SrivastavSudiksha/SrivastavSudiksha/main/asset/profile_circle.png" width="150" style="border-radius:50%;" alt="profile pic"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sudiksha+Srivastav;AI%2FML+Engineer+%7C+Search+%26+Retrieval;Building+with+Python+%26+FastAPI" alt="Typing SVG" />
 
 ### AI/ML Engineer · Search Engines · RAG · Embeddings · Full-Stack Development
